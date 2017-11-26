@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Siddharth Sachdeva's Personal Site"
 title_separator          : "-"
 name                     : &name "Siddharth Sachdeva"
-description              : &description "ML/NLP Researcher and Hacker, Flipside Founder/CEO, 4th-year at UChicago"
+description              : &description "ML/NLP Researcher/Hacker, Flipside Founder/CEO, 4th-year Stats/CS at UChicago"
 url                      : https://siddsach.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "siddsach/siddsach.github.io"
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Sidd Sachdeva"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "ML/NLP Researcher/Hacker, Flipside Founder/CEO, 4th-year Stats/CS at UChicago"
+  location         : "Chicago, IL"
+  employer         : "www.flipsidetalk.com"
+  googlescholar    : 
+  email            : "ssachdeva@uchicago.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "siddsach"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/sid2968/"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/siddsach/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
