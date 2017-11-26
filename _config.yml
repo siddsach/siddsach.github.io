@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Siddharth Sachdeva's Personal Site"
 title_separator          : "-"
 name                     : &name "Siddharth Sachdeva"
-description              : &description "ML/NLP Researcher/Hacker, Flipside Founder/CEO, 4th-year Stats/CS at UChicago"
+description              : &description "ML/NLP Researcher and Hacker, Flipside Founder/CEO, 4th-year at UChicago"
 url                      : https://siddsach.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "siddsach/siddsach.github.io"
@@ -78,8 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sidd Sachdeva"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
+<<<<<<< HEAD
   bio              : "Riding the wave of democratization in ML/NLP"
   github           : "siddsach"
   location         : "Chicago, IL"
@@ -93,18 +94,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
+  github           : "academicpages"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/sid2968/"
+  instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/siddsach/"
-  orcid            : 
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
