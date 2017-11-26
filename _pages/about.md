@@ -18,7 +18,3 @@ tl;dr for what I do:
 * Various experiences in startups, social impact, and investing.
 
 Checkout my [projects](https://siddsach.github.io/portfolio/), and reach out to me [here](ssachdeva@uchicago.edu)
-
-For those of you who want to hear me ramble:
-=====
-It's easy to get depressed these days about where the world is headed.
