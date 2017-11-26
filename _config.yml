@@ -80,7 +80,8 @@ analytics:
 author:
   name             : "Sidd Sachdeva"
   avatar           : "profile.png"
-  bio              : "ML/NLP Researcher/Hacker, Flipside Founder/CEO, 4th-year Stats/CS at UChicago"
+  bio              : "Riding the wave of democratization in ML/NLP"
+  github           : "siddsach"
   location         : "Chicago, IL"
   employer         : "www.flipsidetalk.com"
   googlescholar    : 
@@ -92,7 +93,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "siddsach"
   google_plus      :
   keybase          :
   instagram        : "https://www.instagram.com/sid2968/"
