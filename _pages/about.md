@@ -21,6 +21,7 @@ Checkout my [projects](https://siddsach.github.io/portfolio/), and reach out to 
 Research Statement
 =====
 > > “The next Freud will be a data scientist. The next Marx will be a data scientist. The next Salk might very well be a data scientist.”
+
 -Seth Stephens-Davidowitz, author of Everybody Lies: Big Data, New Data, and what the Internet can tell us about who we really are
 
 I really vibe with this quote. People often see computers as cold, soulless machines that are diametrically opposed to the social sciences, the humanities, and the arts. I think the opposite will turn out to be true. The rise of learned distributed representations that capture the nuance and humanity of language will open the door not just to cool startups and better algorithmic trading, but applications that advance the deepest aspects of our humanity. To that end, my current interests are centered around human-centered approaches to Deep Learning applied to NLP, specifically:
