@@ -35,5 +35,5 @@ I'm currently working on a project/paper to see if we can use attention to inter
 About me
 =====
 
-I've studied, worked, and lived in India, China, Singapore, New York, and rural Massachussets. I've worked in investing, social impact, and investing. I've completed extensive academic work in the social sciences and humanities as well as in math and computer science. In addition to english, I have advanced proficiency in both written and spoken Mandarin and I speak and understand Hindi. I also am an avid [world percussionist](https://youtu.be/qy-hhns3zlY), my main instrument was Tabla, but these days I mostly jam on my cajon. I also write raps and freestyle sometimes, but I haven't put anything up yet. 
+I've studied, worked, and lived in India, China, Singapore, New York, and rural Massachussets. I've worked in investing, social impact, and tech startups. I've completed extensive academic work in the social sciences and humanities as well as in math and computer science. In addition to english, I have advanced proficiency in both written and spoken Mandarin and I speak and understand Hindi. I also am an avid [world percussionist](https://youtu.be/qy-hhns3zlY), my main instrument was Tabla, but these days I mostly jam on my cajon. I also write raps and freestyle sometimes, but I haven't put anything up yet. 
 
