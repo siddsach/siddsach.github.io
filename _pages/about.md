@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Here's what I do:
+> > “The next Freud will be a data scientist. The next Marx will be a data scientist. The next Salk might very well be a data scientist.”
+
+tl;dr for what I do:
 
 * ML/NLP Hacker/Researcher. 
 * Founder/CEO of [Flipside](www.flipsidetalk.com)
