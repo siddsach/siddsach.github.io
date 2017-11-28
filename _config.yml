@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Sidd Sachdeva"
-  avatar           : "profile.png"
+  avatar           : "images/beard_profile.png"
   bio              : "Riding the wave of democratization in ML/NLP"
   github           : "siddsach"
   location         : "Chicago, IL"
