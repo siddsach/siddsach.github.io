@@ -1,6 +1,6 @@
 ---
 title: "Reddit Analysis of NLP Comments"
-excerpt: "Here's a visualization of the clustering of reddit users by sentiment on political entites"<br/><img src='/images/lda_vis.png'>"
+excerpt: "Here's a visualization of the clustering of reddit users by sentiment on political entities<br/><img src='https://github.com/siddsach/reddit_nlp/images/politicalusers.png?raw=true'>"
 collection: portfolio
 ---
 
@@ -33,7 +33,7 @@ politcal groups, analyze distribution of sentiment for political vs. non-politic
 * similarity clustering was fairly random
 
 ### clusters
-![alt text](https://github.com/siddsach/reddit_nlp/images/politicalusers.png?raw=true)
+![alt text]()
 
 
 #### Group 0
