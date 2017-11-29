@@ -1,6 +1,6 @@
 ---
 title: "FlipsideML"
-excerpt: "Research Work for Flipside<br/><img src='/images/flipsidelog.png'>"
+excerpt: "Research Work for Flipside"
 
 collection: portfolio
 ---

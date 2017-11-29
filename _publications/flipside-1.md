@@ -1,6 +1,6 @@
 ---
 title: "Flipside: A New Way to Share Opinions"
-excerpt: "AI-Based Discussion Platform<br/><img src='/images/flipsidelog.png'>"
+excerpt: "AI-Based Discussion Platform"
 
 collection: portfolio
 ---
