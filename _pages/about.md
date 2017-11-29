@@ -18,6 +18,9 @@ tl;dr for what I do:
 Checkout my [projects](https://siddsach.github.io/portfolio/) and [writing](https://siddsach.github.io/year-archive/) and reach out to me [here](ssachdeva@uchicago.edu)
 
 
+About me
+=====
+
 > “The next Freud will be a data scientist. The next Marx will be a data scientist. The next Salk might very well be a data scientist.”
 
 -Seth Stephens-Davidowitz
@@ -31,9 +34,7 @@ People often see computers as cold, soulless machines that are diametrically opp
 I'm currently working on a project/paper to see if we can use attention to interpret the changes in learned representations brought on by transfer learning.
 
 
-About me
-=====
-
+### Miscellaneous
 * I've studied, worked, and lived in India, China, Singapore, New York, and rural Massachussets. 
 * I have advanced proficiency in both written and spoken Mandarin and I speak and understand Hindi. 
 * I'm an avid [world percussionist](https://youtu.be/qy-hhns3zlY?t=2801) my main instrument was Tabla, but these days I mostly jam on my cajon. I also write raps and freestyle sometimes, but I haven't put anything up yet.
