@@ -36,7 +36,7 @@ politcal groups, analyze distribution of sentiment for political vs. non-politic
 * similarity clustering was fairly random
 
 ### clusters
-![alt text]()
+![alt text]('/images/policalusers.png')
 
 
 #### Group 0
