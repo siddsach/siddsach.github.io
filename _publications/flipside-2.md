@@ -23,3 +23,9 @@ Built Automatic Clustering Class that
 * Dimension Reduction (PCA, metric and non-metric MDS)
 * Clustering (KMeans, MeanShift)
 * Constructs Clustering Rationale using Statistical Feature Selection
+
+## Devil's Advocate Recommendation System
+
+* Used [Perspective Topic Model](https://www.irit.fr/publis/SIG/2016_ECIR_TCBPS.pdf) to quantify different perspectives on various topics
+* System able to unsupervisedly identify partisan slant for 87% of aricles
+* Used in conjuction with my [recommendation system](https://github.com/siddsach/Hybrid-Recommender)
