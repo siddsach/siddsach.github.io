@@ -23,7 +23,6 @@ Checkout my [projects](https://siddsach.github.io/portfolio/) and [writing](http
 -Seth Stephens-Davidowitz
 
 People often see computers as cold, soulless machines that are diametrically opposed to the social sciences, the humanities, and the arts. I think the opposite will turn out to be true. The rise of learned distributed representations that capture the nuance and humanity of language will open the door not just to cool startups and better algorithmic trading, but applications that advance the deepest aspects of our humanity. To that end, my current interests are centered around human-centered approaches to Deep Learning applied to NLP, specifically:
-With the rapid increase in available data, compute, and algorithms, computer science is undergoing a paradigm shift, where formal systems and deterministic algorithms give way to information theory and learned distributed representations, and nowhere is this shift more apparent than in natural language processing. Specifically, I'm interested in research around:
 
 * Transfer and Multi-Task Learning to enable applications without a big specialized dataset
 * Interpretability and Bias to ensure that these models aren't black bloxes
