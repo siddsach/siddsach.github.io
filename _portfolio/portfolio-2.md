@@ -1,61 +1,38 @@
 ---
-title: "Reddit Analysis of NLP Comments"
-excerpt: "Here's a visualization of the clustering of reddit users by sentiment on political entities<br/><img src='https://github.com/siddsach/reddit_nlp/images/politicalusers.png?raw=true'>"
+title: "Collaborative Topic Regression Hybrid Recommender System"
+excerpt: "Here's a visualization of the learned movie representations where closer points signify movies that people tend to rate similarly<br/><img src='/images/lda_vis.png'>"
 collection: portfolio
 ---
 
-[Code](https://github.com/siddsach/reddit_nlp)
+[Code](https://github.com/siddsach/Hybrid-Recommender)
+[Paper](https://github.com/siddsach/Hybrid-Recommender/blob/master/CTR-project-paper.pdf)
 
+# Hybrid-Recommender
 
-CMSC 12300 Project: NLP on reddit comments using MapReduce
+This repository contains all the relevant files for my project building a Collaborative Topic Regression recommender system based on
+this paper: http://www.cs.columbia.edu/~blei/papers/WangBlei2011.pdf
+
+Results
+=====
+![alt text](https://github.com/siddsach/Hybrid-Recommender/images/rec_results.png?raw=true)
+
+* Vanilla PMF --> Standard Probabilistic Matrix Factorization Recommendation Algorithm
+* CTR-in-Matrix --> predictions for movies we have ratings for
+* CTR-out-of-Matrix --> predictions for movies we have no ratings for and just use script.
+* CTR-LDA-in-Matrix --> predictions for movies with ratings where we use LDA vector in place of learned ratings vector. 
+
+Learned Representaitons
 =====
 
-As people spend more and more time online in virtually every space, online data provides a wealth of information about people and if mined effectively, this information can provide unparalleled insight into human behavior. Reddit is a great example of this, as it is the primary platform for online discussion in so many spaces and context. For politics in particular, Reddit is the only place in which people engage in a manner divorced from personal relationships and identity. They just share
-their thoughts and opinions confident in their own anonymity on the platform. This means that they are much more forthcoming than they are anywhere else. If we can organize and understand users on Reddit by their politics, we have the ingredients to understand online discourse in a way that isn’t possible today.
+The output of LDA (an unsupervised algorithm to learn topic representation) gives word distributions for each topic, and inspecting these topics can give us a sense of what the algorithm is actually learning. Here are a few of the topics clearly signifying some easily interpretable likely meaning as represented by their top 20 words.
 
-## Data
-* Cleaned 26 GB dataset of reddit comments from R/Politics
-* Considered comments from r/Politics 
-* Data can be retrieved from: https://bigquery.cloud.google.com/table/fh-bigquery:reddit comments.2015 05?pli=1
+* Education → teachers library hawk gentlemen science robinson teaching thank campus study education teach sir university student teacher students college class school
 
-## Methodology
-* Combined Entity Extraction, Sentiment Analysis to extract rating tuples of the form (userid, entityid, sentiment)
-* Used keyword matching in Google Knowledge Graph API to check whether entities were political or not
-* Filtered only most active users to come up with small subset of all users so matrix wasn't sparse
+* Film → movies scene stuff feel picture started life camera work big real gonna came things wanted story lot didn kind film
 
-## Math
-* Used [parallel algorithm for calculating standard deviation]("https://en.wikipedia.org/wiki/Algorithms_for_calculating_variance#Parallel_algorithm")
-* Created user x entity Matrix of these ratings and performed dimension reduction and clustering to find
-politcal groups, analyze distribution of sentiment for political vs. non-political entities.
-* Also retrieved averaged word vectors of comments to perform similarity based clustering  of users based on comments
+* Christmas → turkey toy bells jingle toys presents mo marley lll vic walt la ho claus year poppy tree lm snow 0000 Music → hear doo stage piano gonna dance night songs guitar record hey playing singing rock play yeah band sing la do
 
-## Results
-* Ran job on cluster of 8 cores using MapReduce on Google Cloud Platform
-* Political entities are significantly more polarized in sentiment (std. dev. = 0.12) than non-political entities (std. dev. = 0.7)
-* sentiment data made users cluster into clear groups, but clustering only good at high-level, could not pick out smaller subgroups. 
-* similarity clustering was fairly random
+* Law → believe attorney question prison justice murder jury truth state witness years evidence lawyer trial guilty honor didn law judge case
 
-### clusters
-![alt text]()
-
-
-#### Group 0
-“He was a McCain campaign plant. A clever way of manipulating the American people into being afraid of so-called ""socialism"" (as if the recent bail outs were not socialist enough). Watch the way that he approaches Barack. Watch the way that he gives a figure specifically at or above [50000 (the area of Obama's tax plans were tax cuts start to go to tax increases). Then his follow up interview with Fox News where Joe calls Obama a ""socialist"" and seems very strongly in favor of
-McCain.”
-
-#### Group 1
-“Why don't liberals seem to want to take any personal responsibility?  Why is it always the governments job?  Where are the parent?  Why don't we spend the money to educate parents on how to do a better job being parents?I get so frustrated with the ""government can fix everything"" mentality.I personally think teaching abstenance AND birth control are the best way to go.. why does it have to be just ONE?”
-“Yes but that's all Obama is pushing..Hope and Change...but what exactly is that...he's voted to reauthorize the Patriot Act kept funding the war and has said he'd invade Pakistan. Which means more police state more wars and interventionism. He's practically licking Israel's behind wants more socialism which we cannot even begin to afford and has as his foreign policy advisor Zbigniew Brzezinski- who is just as bad as Kissinger. So you'll have to excuse me for not buying into Obama's
-so-called Hope and Change.”
-
-#### Group 2
-“Unlike Hillary Clinton Barack Obama has promised to remove ""all combat troops"" from Iraq. But he has also said that he might send troops back into the country to fight al Qaeda and ""stop genocidal violence.""Of course he will have it both ways. He says intends to remove combat troops but if it turns out to be a bad move he will reverse his decision like any rational human being would. As opposed to someone with their head up their ass who will never change their mind unless they are
-accused of correcting their mistakes.&gt; AfghanistanIf we're resigned to having a war on terrorism Afghanistan is an appropriate place to work from. Iraq was a stupid place to disrupt since they weren't funding terrorism afaics. “
-
-
-#### Group 3
-“Do you guys still have time to troll the new articles coming in while posting here?  I have a fulfilling life so don't expect me to continue.  Maybe if you two ever got laid you wouldn't take sick pleasure out of being annoying to people you (perhaps?) don't agree with you.  P.S.  Are you guys voting Paul?  Nice job if it weren't for you guys I never would have started being vocal about Paul like I just started a few days ago.  If you're really just trying to drum up support for him
-GREAT WORK”
-“Just get Big Oil out of bed with Big Government and the FREE MARKET will handle this way more effective then the government could.. oh and we don't have to foot the bill for it.  Free market can do it cheaper more effective and less corrupt... That sounds good.. but you can't get people emotionally engaged in common sense."
-"ungood,How many congresses does he not need approval from?”
+* Military → fight order stand ship soldiers gentlemen enemy aye orders officer soldier thank lieutenant sergeant army colonel general war men captain
 
