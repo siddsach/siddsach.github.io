@@ -1,7 +1,7 @@
 ---
 title: 'The Heights of Ignorance'
 date: 2016-04-05
-permalink: /posts/2015/07/On Writing/
+permalink: /posts/2015/07/chinese-ignorance/
 ---
 
 When my Professor told us this week that for extra credit we could write about the great wall in relation to China as a whole, I groaned. I’ve read countless instances of misty-eyed tourists traveling to foreign lands writing of the “profound” metaphors they see around them (myself being no exception). It’s insufferable.  Of course, the travel blogger writing about the romance of the Taj Mahal might be well intentioned. But the idea of going off to some Asian or African country and
