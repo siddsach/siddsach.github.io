@@ -2,9 +2,12 @@
 main:
   - title: "Projects/Papers"
     url: /portfolio/
+
+  - title: "Flipside"
+    url: /publications/
         
   - title: "Writing"
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/cv.pdf
