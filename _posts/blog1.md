@@ -1,7 +1,7 @@
 ---
 title: 'On Writing'
 date: 2015-07-04
-permalink: /posts/2015/07/On Writing/
+permalink: /posts/2015/07/OnWriting/
 ---
 
 When I was a kid, I hated writing. My 4th grade English class used to have us write a journal, and for me it would just be an exercise in avoiding getting chastised for my atrocious handwriting. My teacher would laugh, my peers would sympathize, and my parents would lecture, and as a result I associated writing with the unattainable, taunting, singular, stupid, annoying objective of handwriting. So from from an early age, I hated writing.
