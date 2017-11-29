@@ -5,7 +5,7 @@ excerpt: "Research Work for Flipside"
 collection: portfolio
 ---
 
-Code for my Flipside Research is in a Private Repo, but reach out if you're interested, I can share it in some circumstances
+Code for my Flipside Research is in a Private Repo, but reach out if you're interested, I can share it in some cases
 
 ## Main Claim Detection Algorithm combining a few things
 
