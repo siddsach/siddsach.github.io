@@ -1,6 +1,11 @@
+---
+title: "What are we Transferring Anyway?"
+excerpt: "Using Attention Weights to Interpret domain choice in Transfer Learning<br/><img src='/images/rnn.png'>"
+collection: portfolio
+---
+
 #(In Progress) 
 
-What are we Transferring Anyway?: Using Attention Weights to Interpret domain choice in Transfer Learning
 
 [Code](https://github.com/siddsach/Interpreting-Attention)
 

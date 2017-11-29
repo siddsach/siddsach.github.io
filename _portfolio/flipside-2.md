@@ -1,10 +1,11 @@
 ---
 title: "FlipsideML"
-excerpt: "Research Work for Flipide"
+excerpt: "Research Work for Flipide<br/><img src='/images/flipsidelog.png'>"
+
 collection: portfolio
 ---
 
-Code for my Flipside Research is in a Private Repo, but reach out if you're interested I can share it.
+Code for my Flipside Research is in a Private Repo, but reach out if you're interested, I can share it in some circumstances
 
 ## Main Claim Detection Algorithm combining a few things
 

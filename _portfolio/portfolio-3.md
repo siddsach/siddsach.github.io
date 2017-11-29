@@ -1,6 +1,6 @@
 ---
 title: "Reddit Analysis of NLP Comments"
-excerpt: "Here's a visualization of the clustering of reddit users by sentiment on political entities<br/><img src='https://github.com/siddsach/reddit_nlp/images/politicalusers.png?raw=true'>"
+excerpt: "Here's a visualization of the clustering of reddit users by sentiment on political entities<br/><img src='/images/reddit.png'>"
 collection: portfolio
 ---
 
