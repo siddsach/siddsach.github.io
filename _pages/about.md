@@ -18,8 +18,6 @@ tl;dr for what I do:
 Checkout my [projects](https://siddsach.github.io/portfolio/) and [writing](https://siddsach.github.io/year-archive/) and reach out to me [here](ssachdeva@uchicago.edu)
 
 
-Research Statement
-=====
 > “The next Freud will be a data scientist. The next Marx will be a data scientist. The next Salk might very well be a data scientist.”
 
 -Seth Stephens-Davidowitz
