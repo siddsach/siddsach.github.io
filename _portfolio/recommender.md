@@ -14,7 +14,7 @@ this paper: http://www.cs.columbia.edu/~blei/papers/WangBlei2011.pdf
 
 Results
 =====
-![alt text](https://github.com/siddsach/Hybrid-Recommender/images/rec_results.png?raw=true)
+![alt text](/images/rec_results.png?raw=true)
 
 * Vanilla PMF --> Standard Probabilistic Matrix Factorization Recommendation Algorithm
 * CTR-in-Matrix --> predictions for movies we have ratings for
