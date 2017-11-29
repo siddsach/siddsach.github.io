@@ -15,7 +15,7 @@ tl;dr for what I do:
 * Founder/CEO of [Flipside](https://www.flipsidetalk.com)
 * Various experiences in startups, social impact, and investing.
 
-Checkout my [projects](https://siddsach.github.io/portfolio/), and reach out to me [here](ssachdeva@uchicago.edu)
+Checkout my [projects](https://siddsach.github.io/portfolio/) and [writing](https://siddsach.github.io/year-archive/) and reach out to me [here](ssachdeva@uchicago.edu)
 
 
 Research Statement
