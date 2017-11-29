@@ -10,6 +10,9 @@ collection: portfolio
 CMSC 12300 Project: NLP on reddit comments using MapReduce
 =====
 
+As people spend more and more time online in virtually every space, online data provides a wealth of information about people and if mined effectively, this information can provide unparalleled insight into human behavior. Reddit is a great example of this, as it is the primary platform for online discussion in so many spaces and context. For politics in particular, Reddit is the only place in which people engage in a manner divorced from personal relationships and identity. They just share
+their thoughts and opinions confident in their own anonymity on the platform. This means that they are much more forthcoming than they are anywhere else. If we can organize and understand users on Reddit by their politics, we have the ingredients to understand online discourse in a way that isn’t possible today.
+
 ## Data
 * Cleaned 26 GB dataset of reddit comments from R/Politics
 * Considered comments from r/Politics 
