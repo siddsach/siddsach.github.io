@@ -5,7 +5,7 @@ excerpt: "AI-Based Discussion Platform<br/><img src='/images/flipsidelog.png'>"
 collection: portfolio
 ---
 
-##[Click Me!](https://www.flipsidetalk.com)
+## [Click Me!](https://www.flipsidetalk.com)
 
 ### What is the goal of Flipside?
 
