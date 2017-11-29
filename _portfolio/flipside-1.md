@@ -1,10 +1,11 @@
 ---
 title: "Flipside: A New Way to Share Opinions"
-excerpt: "AI-Based Discussion Platform"
+excerpt: "AI-Based Discussion Platform<br/><img src='/images/flipsidelog.png'>"
+
 collection: portfolio
 ---
 
-##[Website](https://www.flipsidetalk.com)
+##[Click Me!](https://www.flipsidetalk.com)
 
 ### What is the goal of Flipside?
 
