@@ -7,6 +7,8 @@ collection: portfolio
 
 ## [Click Me!](https://www.flipsidetalk.com)
 
+## [Checkout our SNVC Pitch (Skip to 27:43)](https://media.chicagobooth.edu/Mediasite6/Play/65fff4e87fc249c2bda42e905174e60e1d)
+
 ### What is the goal of Flipside?
 
 In a world of restricted speech and echo chambers, it’s never been more important for us to learn about and share our differing opinions and perspectives. But the internet has become so noisy and toxic that it’s pretty much impossible to have a fun or interesting conversation with people we disagree with. We think we can change that.
