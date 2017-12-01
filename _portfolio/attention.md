@@ -4,39 +4,11 @@ excerpt: "Using Attention Weights to Interpret domain choice in Transfer Learnin
 collection: portfolio
 ---
 
-#(In Progress) 
+(In Progress) 
 
 [Code](https://github.com/siddsach/Interpreting-Attention)
 
-A Research Project Experimenting with Self-Attention to interpret different source domains for Transfer Learning 
+# A Research Project Experimenting with Self-Attention to interpret different source domains for Transfer Learning 
 
-###  Implemented
-* Data Collection and Cleaning
-* Modified Word Language Model
-* LSTM Classifier
-* Self-Attention Embedding
-* Key-Value Attention
-* Language Model Pretraining
-
-### To Do
-* Classification Tuning
-* Attention Classification Tuning
-* Model Comparison
-
-## Data
-
-### Language Model Datasets
-* Wikitext-2
-* Gigaword
-* Penn Tree Bank
-
-### Text Classification Datasets
-* IMDB Sentiment Classification
-* MPQA Subjectivity Classification
-
-### Word Vectors
-* CharNGram
-* Google News Word2Vec
-* GloVe
-
-
+Multi-task learning and transfer learning are set to change the way we do NLP, significantly improving model generalization, data efficiency, and accuracy. However, it's hard to interpret why knowledge particular datasets are more useful to transfer than others, and as we have [seen](https://motherboard.vice.com/en_us/article/j5jmj8/google-artificial-intelligence-bias), machine learning systems can unknowingly learn bias. To mitigate both of these problems, I'm experimenting
+with using the recent method of attention to interpret different kinds of transfer learning.
