@@ -12,7 +12,7 @@ redirect_from:
 tl;dr for what I do:
 
 * ML/NLP Hacker/Researcher. 
-* Founder/CEO of [Flipside](https://www.flipsidetalk.com)
+* Founder/CEO of [Flipside](https://siddsach.github.io/publications/)
 * Various experiences in startups, social impact, and investing.
 
 Checkout my [projects](https://siddsach.github.io/portfolio/), [writing](https://siddsach.github.io/year-archive/) and [CV](https://siddsach.github.io/files/cv.pdf)
