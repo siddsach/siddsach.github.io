@@ -16,6 +16,7 @@ Code for my Flipside Research is in a Private Repo, but reach out if you're inte
 
 ## Automatic Live Clustering 
 
+![alt text](/images/bubbleviz.png)
 Built Automatic Clustering Class that 
 
 * Constructs and Binary Agree/Disagree Votes Matrix
