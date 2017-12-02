@@ -12,10 +12,10 @@ collection: portfolio
 
 # Media
 
-[American Inno](https://www.americaninno.com/chicago/flipside-brings-you-political-opinions-from-across-the-aisle-youll-actually-want-to-read/)
-[UChicago](https://college.uchicago.edu/uniquely-chicago/story/student-start-series-%E2%80%98flipside%E2%80%99-bolsters-political-discourse-through)
-[Polsky Center](https://polsky.uchicago.edu/2017/06/14/flipside-brings-you-political-opinions-from-across-the-aisle-youll-actually-want-to-read/)
-[Chicago Law](https://www.law.uchicago.edu/news/flipside-and-jurycheck-law-students-use-high-tech-ventures-address-social-issues)
+* [American Inno](https://www.americaninno.com/chicago/flipside-brings-you-political-opinions-from-across-the-aisle-youll-actually-want-to-read/)
+* [UChicago](https://college.uchicago.edu/uniquely-chicago/story/student-start-series-%E2%80%98flipside%E2%80%99-bolsters-political-discourse-through)
+* [Polsky Center](https://polsky.uchicago.edu/2017/06/14/flipside-brings-you-political-opinions-from-across-the-aisle-youll-actually-want-to-read/)
+* [Chicago Law](https://www.law.uchicago.edu/news/flipside-and-jurycheck-law-students-use-high-tech-ventures-address-social-issues)
 
 # FAQ
 
