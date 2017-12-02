@@ -7,7 +7,7 @@ collection: portfolio
 [Code](https://github.com/siddsach/Hybrid-Recommender)
 [Paper](https://github.com/siddsach/Hybrid-Recommender/blob/master/CTR-project-paper.pdf)
 
-I built a recommender system combining the best of Collaborative Filtering (Matrix Factorization) and Content Analysis (Probabalistic Topic Modeling), and trained it on IMDB movie ratings and scripts for those movies. After training the system could make accurate recommendations on new movies based just on the script
+I built a recommender system combining the best of Collaborative Filtering (Matrix Factorization) and Content Analysis (Probabalistic Topic Modeling), and trained it on a dataset I crawled of IMDB movie ratings and scripts for those movies. After training, the system could make accurate recommendations on new movies based just on the script
 
 Results
 =====
