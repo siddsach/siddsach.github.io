@@ -1,6 +1,6 @@
 ---
 title: "NLP Analysis of Reddit Comments"
-excerpt: "Here's a visualization of the clustering of reddit users by sentiment on political entities<br/><img src='/images/reddit.png'>"
+excerpt: "Combining parts of the NLP Stack to perform user political segmentation<br/><img src='/images/reddit.png'>"
 collection: portfolio
 ---
 
@@ -10,7 +10,7 @@ collection: portfolio
 CMSC 12300 Project: NLP on reddit comments using MapReduce
 =====
 
-As people spend more and more time online in virtually every space, online data provides a wealth of information about people and if mined effectively, this information can provide unparalleled insight into human behavior. Reddit is a great example of this, as it is the primary platform for online discussion in so many spaces and context. For politics in particular, Reddit is the only place in which people engage in a manner divorced from personal relationships and identity. They just share
+As people spend more and more time online in virtually every space, online data provides a wealth of information about people. If mined effectively, this information can provide unparalleled insight into human behavior. Reddit is a great example of this, as it is the primary platform for online discussion in so many spaces and contexts. For politics in particular, Reddit is the only place in which people engage in a manner divorced from personal relationships and identity. They just share
 their thoughts and opinions confident in their own anonymity on the platform. This means that they are much more forthcoming than they are anywhere else. If we can organize and understand users on Reddit by their politics, we have the ingredients to understand online discourse in a way that isn’t possible today.
 
 ## Data
@@ -19,9 +19,9 @@ their thoughts and opinions confident in their own anonymity on the platform. Th
 * Data can be retrieved from: https://bigquery.cloud.google.com/table/fh-bigquery:reddit comments.2015 05?pli=1
 
 ## Methodology
-* Combined Entity Extraction, Sentiment Analysis to extract rating tuples of the form (userid, entityid, sentiment)
-* Used keyword matching in Google Knowledge Graph API to check whether entities were political or not
-* Filtered only most active users to come up with small subset of all users so matrix wasn't sparse
+* Combined Named Entity Recognition, Sentiment Analysis to extract rating tuples of the form (userid, entityid, sentiment)
+* Used keyword matching on descriptions in Google Knowledge Graph API to check whether entities were political or not
+* Filtered only most active users so matrix wasn't sparse
 
 ## Math
 * Used [parallel algorithm for calculating standard deviation]("https://en.wikipedia.org/wiki/Algorithms_for_calculating_variance#Parallel_algorithm")
