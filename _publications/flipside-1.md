@@ -5,9 +5,19 @@ excerpt: "AI-Based Discussion Platform"
 collection: portfolio
 ---
 
-## [Click Me!](https://www.flipsidetalk.com)
+## [Current Pilot](https://www.flipsidetalk.com)
 
 ## [Checkout our SNVC Pitch (Skip to 27:43)](https://media.chicagobooth.edu/Mediasite6/Play/65fff4e87fc249c2bda42e905174e60e1d)
+
+
+# Media
+
+[American Inno](https://www.americaninno.com/chicago/flipside-brings-you-political-opinions-from-across-the-aisle-youll-actually-want-to-read/)
+[UChicago](https://college.uchicago.edu/uniquely-chicago/story/student-start-series-%E2%80%98flipside%E2%80%99-bolsters-political-discourse-through)
+[Polsky Center](https://polsky.uchicago.edu/2017/06/14/flipside-brings-you-political-opinions-from-across-the-aisle-youll-actually-want-to-read/)
+[Chicago Law](https://www.law.uchicago.edu/news/flipside-and-jurycheck-law-students-use-high-tech-ventures-address-social-issues)
+
+# FAQ
 
 ### What is the goal of Flipside?
 
