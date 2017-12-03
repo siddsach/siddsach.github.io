@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Work for Flipside"
 permalink: /publications/
 author_profile: true
 ---
