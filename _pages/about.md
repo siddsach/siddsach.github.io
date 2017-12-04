@@ -37,5 +37,5 @@ I'm currently working on a project/paper to see if we can use attention to inter
 ### Miscellaneous
 * I've studied, worked, and lived in India, China, Singapore, New York, and rural Massachussets. 
 * I have advanced proficiency in both written and spoken Mandarin and I speak and understand Hindi. 
-* I'm an avid [world percussionist](https://youtu.be/qy-hhns3zlY?t=2919) my main instrument was Tabla, but these days I mostly jam on my cajon. I also write raps and freestyle sometimes, but I haven't put anything up yet.
+* I'm an avid [world percussionist](https://youtu.be/qy-hhns3zlY?t=2919) my main instrument was Tabla, but these days I mostly jam on my [cajon](https://www.instagram.com/p/BKGypxdB_be/?taken-by=sid2968). I also write raps and freestyle sometimes, but I haven't put anything up yet.
 
