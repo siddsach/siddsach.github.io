@@ -31,8 +31,6 @@ People often see computers as cold, soulless machines that are diametrically opp
 * Interpretability and Bias to ensure that these models aren't black bloxes
 * Design and implementation of tools that give the power of these algorithms to people who have no technical skills. 
 
-I'm currently working on a project/paper to see if we can use attention to interpret the changes in learned representations brought on by transfer learning.
-
 
 ### Miscellaneous
 * I've studied, worked, and lived in India, China, Singapore, New York, and rural Massachussets. 
