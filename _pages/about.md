@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+Read my [recent post on interpreting bias in machine learning](https://siddsach.github.io/posts/2018/01/bias/)
 
 tl;dr for what I do:
 
