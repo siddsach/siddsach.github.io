@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
+[My CV](https://siddsach.github.io/files/cv.pdf)
+
 tl;dr for what I do:
 
 * ML/NLP Hacker/Researcher. 
 * Machine Learning Engineer at [Roam Analytics](https://roamanalytics.com/)
 * Various experiences in startups, social impact, and investing.
 
-Checkout my [projects](https://siddsach.github.io/portfolio/), [writing](https://siddsach.github.io/year-archive/) and [CV](https://siddsach.github.io/files/cv.pdf)
-
+Checkout my [projects](https://siddsach.github.io/portfolio/), [writing](https://siddsach.github.io/year-archive/)
 
 About me
 =====
