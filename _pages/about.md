@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Read my [recent post on interpreting bias in machine learning](https://siddsach.github.io/posts/2018/01/bias/)
-
 tl;dr for what I do:
 
 * ML/NLP Hacker/Researcher. 
-* Founder/CEO of [Flipside](https://siddsach.github.io/publications/)
+* Machine Learning Engineer at [Roam Analytics](https://roamanalytics.com/)
 * Various experiences in startups, social impact, and investing.
 
 Checkout my [projects](https://siddsach.github.io/portfolio/), [writing](https://siddsach.github.io/year-archive/) and [CV](https://siddsach.github.io/files/cv.pdf)
