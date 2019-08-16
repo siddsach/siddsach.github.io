@@ -4,9 +4,7 @@ excerpt: "Using Attention Weights to Interpret domain choice in Transfer Learnin
 collection: portfolio
 ---
 
-[Read my recent post on progress thus far!](https://siddsach.github.io/posts/2018/01/bias/)
-
-(In Progress) 
+[Blogpost on this topic](https://siddsach.github.io/posts/2018/01/bias/)
 
 [Code](https://github.com/siddsach/Interpreting-Attention)
 
