@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Sidd Sachdeva"
   avatar           : "beard_profile.png"
-  bio              : "Riding the wave of democratization in ML/NLP"
+  bio              : "ML for social good"
   github           : "siddsach"
-  location         : "Chicago, IL"
-  employer         : "www.flipsidetalk.com"
+  location         : "Palo Alto, CA"
+  employer         : "https://roamanalytics.com/"
   googlescholar    : 
   email            : "ssachdeva@uchicago.edu"
   uri              :
