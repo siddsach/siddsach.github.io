@@ -8,33 +8,22 @@ redirect_from:
   - /about.html
 ---
 
+> “The next Freud will be a data scientist. The next Marx will be a data scientist. The next Salk might very well be a data scientist.”
+
+-Seth Stephens-Davidowitz
+
 [My CV](https://siddsach.github.io/files/cv.pdf)
 
 tl;dr for what I do:
 
 * ML/NLP Hacker/Researcher. 
-* Currently a Machine Learning Engineer at [Aquabyte](https://www.aquabyte.no/index.html)
+* Currently a Machine Learning Engineer at [Aquabyte](https://www.aquabyte.no/index.html). Aquabyte was featured by Amazon CTO Werner Vogels as a leading startup working on sustainability, check out the link below!
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YZ_qJ5JFD3I/0.jpg)](https://www.youtube.com/watch?v=YZ_qJ5JFD3I)
 * Various experiences in startups, social impact, and investing.
 
 Checkout my [projects](https://siddsach.github.io/portfolio/), [writing](https://siddsach.github.io/year-archive/)
 
-About me
-=====
-
-> “The next Freud will be a data scientist. The next Marx will be a data scientist. The next Salk might very well be a data scientist.”
-
--Seth Stephens-Davidowitz
-
-People often see computers as cold, soulless machines that are diametrically opposed to the social sciences, the humanities, and the arts. I think the opposite will turn out to be true. The rise of learned distributed representations that capture the nuance and humanity of language will open the door not just to cool startups and better algorithmic trading, but applications that advance the deepest aspects of our humanity. To that end, my current interests are centered around human-centered approaches to Deep Learning applied to NLP, specifically:
-
-* Transfer and Multi-Task Learning to enable applications without a big specialized dataset
-* Interpretability and Bias to ensure that these models aren't black bloxes
-* Design and implementation of tools that give the power of these algorithms to people who have no technical skills. 
-
-
 ### Miscellaneous
 * I've studied, worked, and lived in India, China, Singapore, New York, and rural Massachussets. 
 * I have advanced proficiency in both written and spoken Mandarin and I speak and understand Hindi. 
 * I'm an avid [world percussionist](https://youtu.be/qy-hhns3zlY?t=2919) my main instrument was Tabla, but these days I mostly jam on my [cajon](https://www.instagram.com/p/BKGypxdB_be/?taken-by=sid2968). I also write raps and freestyle sometimes, but I haven't put anything up yet.
-
