@@ -1,4 +1,3 @@
-
 ---
 title: 'Why We Shouldnt Blame China for the Coronavirus'
 date: 2019-03-19
