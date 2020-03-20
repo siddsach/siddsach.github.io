@@ -1,9 +1,8 @@
 ---
 title: 'Why We Shouldnt Blame China for the Coronavirus'
-date: 2019-03-19
-permalink: /posts/2019/03/china-coronavirus/
+date: 2020-03-19
+permalink: /posts/2020/03/china-coronavirus/
 ---
-
 
 As the coronavirus crisis grows in severity and scope, this week I’m starting to see a blame game being played [on Fox News, in youtube comments](https://www.youtube.com/watch?v=QI-9v-TdshU), and [in national press briefings, as Trump has started calling the Coronavirus the “Chinese Virus”](https://www.nytimes.com/2020/03/18/us/politics/china-virus.html). Blaming china has become a familiar political strategy in our country that has cut to the core of our national psyche in the past few years, so much so that you can make ridiculous videos like this: https://www.youtube.com/watch?v=RDrfE9I8_hs, so normally I don’t pay much attention to it. Recently, though, I’ve started seeing [respectable authors and multiple people I personally know promote this narrative](https://www.theatlantic.com/ideas/archive/2020/03/china-trolling-world-and-avoiding-blame/608332/?fbclid=IwAR3_1nmI7AJYeMe7Jy_5lduCGTFwWDdcVHIoUOBIUqwXvVpqrEt3fwGVqag), and frankly, that scares and frustrates me, because it indicates an ignorance both of history and the world that is dangerously common. So I decided to blow off some steam and write about it.
 
