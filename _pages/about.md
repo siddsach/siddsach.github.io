@@ -12,8 +12,8 @@ redirect_from:
 
 ## tl;dr for what I do:
 
-* I build ML Products.
-* Currently a Machine Learning Engineer at [Aquabyte](https://www.aquabyte.no/index.html). Aquabyte was featured by Amazon CTO Werner Vogels as a leading startup working on sustainability, check out the link below!
+* I build AI-powered products.
+* Currently a Machine Learning Engineer at [Aquabyte](https://www.aquabyte.no/index.html) working on making salmon farming more sustainable with computer vision. Aquabyte was featured by Amazon CTO Werner Vogels as a leading startup working on sustainability, check out the link below!
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YZ_qJ5JFD3I/0.jpg)](https://www.youtube.com/watch?v=YZ_qJ5JFD3I)
 
