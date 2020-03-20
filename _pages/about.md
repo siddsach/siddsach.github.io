@@ -13,7 +13,8 @@ redirect_from:
 tl;dr for what I do:
 
 * ML/NLP Hacker/Researcher. 
-* Machine Learning Engineer at [Roam Analytics](https://roamanalytics.com/)
+* Currently a Machine Learning Engineer at [Aquabyte](https://www.aquabyte.no/index.html)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YZ_qJ5JFD3I/0.jpg)](https://www.youtube.com/watch?v=YZ_qJ5JFD3I)
 * Various experiences in startups, social impact, and investing.
 
 Checkout my [projects](https://siddsach.github.io/portfolio/), [writing](https://siddsach.github.io/year-archive/)
