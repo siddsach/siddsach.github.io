@@ -20,8 +20,6 @@ redirect_from:
 * Various experiences in startups, social impact, and investing.
 * Currently interested in working on climate adaptation and sustainability
 
-Checkout my [projects](https://siddsach.github.io/portfolio/), [writing](https://siddsach.github.io/year-archive/)
-
 ### Miscellaneous
 * I've studied, worked, and lived in India, China, Singapore, New York, and rural Massachussets. 
 * I have advanced proficiency in both written and spoken Mandarin and I speak and understand Hindi. 
