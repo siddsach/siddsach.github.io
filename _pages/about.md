@@ -8,18 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-> “The next Freud will be a data scientist. The next Marx will be a data scientist. The next Salk might very well be a data scientist.”
+> “The next Freud will be a data scientist. The next Marx will be a data scientist. The next Salk might very well be a data scientist.” -Seth Stephens-Davidowitz
 
--Seth Stephens-Davidowitz
+## tl;dr for what I do:
 
-[My CV](https://siddsach.github.io/files/cv.pdf)
-
-tl;dr for what I do:
-
-* ML/NLP Hacker/Researcher. 
+* I build ML Products.
 * Currently a Machine Learning Engineer at [Aquabyte](https://www.aquabyte.no/index.html). Aquabyte was featured by Amazon CTO Werner Vogels as a leading startup working on sustainability, check out the link below!
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YZ_qJ5JFD3I/0.jpg)](https://www.youtube.com/watch?v=YZ_qJ5JFD3I)
 * Various experiences in startups, social impact, and investing.
+* Currently interested in working on climate adaptation and sustainability
 
 Checkout my [projects](https://siddsach.github.io/portfolio/), [writing](https://siddsach.github.io/year-archive/)
 
