@@ -1,6 +1,6 @@
 ---
 title: 'Why We Shouldnt Blame China for the Coronavirus'
-excerpt: "Anyone who blames  2the coronavirus solely on China’s free speech problems knows nothing about the history of pandemics.<br/><img src='/images/china_coronavirus.jpeg'>"
+excerpt: "<img src='/images/china_coronavirus.jpeg'>"
 date: 2020-03-19
 permalink: /posts/2020/03/china-coronavirus/
 ---
