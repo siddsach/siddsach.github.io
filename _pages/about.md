@@ -10,6 +10,8 @@ redirect_from:
 
 > “The next Freud will be a data scientist. The next Marx will be a data scientist. The next Salk might very well be a data scientist.” -Seth Stephens-Davidowitz
 
+Read my recent [Earth Day Post](https://siddsach.github.io/posts/2020/04/earth-day/)!
+
 ## tl;dr for what I do:
 
 * I build AI-powered products.
