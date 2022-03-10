@@ -85,9 +85,9 @@ author:
   bio              : "AI for social good"
   github           : "siddsach"
   location         : "Palo Alto, CA"
-  employer         : "https://aquabyte.no/"
+  employer         : 
   googlescholar    : 
-  email            : "ssachdeva@uchicago.edu"
+  email            : "siddsach@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   linkedin         : "siddsach"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   vine             :
