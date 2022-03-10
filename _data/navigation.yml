@@ -1,11 +1,8 @@
 # main links links
 main:
-  - title: "Projects/Papers"
-    url: /portfolio/
+  - title: "Professional Portfolio"
+    url: /files/portfolio.pdf
 
-  - title: "Flipside"
-    url: /publications/
-        
   - title: "Writing"
     url: /year-archive/
     
