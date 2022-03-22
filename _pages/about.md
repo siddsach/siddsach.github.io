@@ -12,7 +12,7 @@ Here's a quick link to my [CV](https://siddsach.github.io/files/cv.pdf) and [por
 
 > “The next Freud will be a data scientist. The next Marx will be a data scientist. The next Salk might very well be a data scientist.” 
 
--Seth Stephens-Davidowitz,
+-Seth Stephens-Davidowitz
 
 Seth Stephens-Davidowitz's book,"Everybody Lies", and especially this quote, were what first got me interested in data science. I believe our society is going through a transition where humanistic issues such as equity, the value of life and nature, governance, and food systems are being dramatically reshaped by data that can help us learn how to empower people. I'm excited about applying my skills to public good issues. If you are too, then get in touch! 
 
